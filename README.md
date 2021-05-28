@@ -1,2 +1,2 @@
 # Charitywebsite
-This is a Frontend Charity Website
+This is a Fully Frontend Charity Website using HTML CSS JAVAScript and Bootstrap
